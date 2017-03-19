@@ -10,17 +10,17 @@ A blackout poetry writing tool.
 CSS for redacted-style text from a [codepen](https://codepen.io/adamruf/pen/GZwdrY) by [Adam Ruf](https://github.com/adamruf).
 
 Texts from Project Gutenberg:
- * (http://www.gutenberg.org/ebooks/84)[Frankenstein; Or, The Modern Prometheus] by Mary Wollstonecraft Shelley
- * (http://www.gutenberg.org/ebooks/15489)[Dream Psychology: Psychoanalysis for Beginners] by Sigmund Freud
-  * (http://www.gutenberg.org/ebooks/24236)[Time and Tide: A Romance of the Moon] by Robert S. Ball
-   * (http://www.gutenberg.org/ebooks/10852)[Hardy Ornamental Flowering Trees and Shrubs] by Angus Duncan Webster
-   * (http://www.gutenberg.org/ebooks/14218) [The Story of Alchemy and the Beginnings of Chemistry] by M. M. Pattison Muir
-  * (http://www.gutenberg.org/ebooks/19676")[Shakespeare and Music] by Edward W. Naylor
-  * (http://www.gutenberg.org/ebooks/29768")[Astounding Stories of Super-Science, August 1930] by Various
+ * [Frankenstein; Or, The Modern Prometheus](http://www.gutenberg.org/ebooks/84)by Mary Wollstonecraft Shelley
+ * [Dream Psychology: Psychoanalysis for Beginners](http://www.gutenberg.org/ebooks/15489) by Sigmund Freud
+  * [Time and Tide: A Romance of the Moon] (http://www.gutenberg.org/ebooks/24236)by Robert S. Ball
+   * [Hardy Ornamental Flowering Trees and Shrubs](http://www.gutenberg.org/ebooks/10852) by Angus Duncan Webster
+   * [The Story of Alchemy and the Beginnings of Chemistry] (http://www.gutenberg.org/ebooks/14218) by M. M. Pattison Muir
+  * [Shakespeare and Music] (http://www.gutenberg.org/ebooks/19676") by Edward W. Naylor
+  * [Astounding Stories of Super-Science, August 1930](http://www.gutenberg.org/ebooks/29768") by Various
   
 
 Texts from The Internet Archive
-  * (https://archive.org/details/ost-computer-science-the_art_of_unix_programming-1)[The Art of Unix Programming] by Eric Raymond
+  * [The Art of Unix Programming] (https://archive.org/details/ost-computer-science-the_art_of_unix_programming-1)by Eric Raymond
 
 ## Authors 
 [Claire Quigley](https://github.com/alcluith) <br/>

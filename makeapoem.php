@@ -119,13 +119,18 @@
  <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <ul class="nav navbar-nav">
-      <li class="active"><a href="index.html">Poems in the Gaps</a></li>
+      <li class="active"><a href="">Poems in the Gaps</a></li>
       <li><a href="makeapoem.php">Make a poem</a></li>
       <li><a href="credits.html">About</a></li>
       <!-- <li><a href="#">Page 3</a></li> -->
     </ul>
   </div>
 </nav>
+
+<div id="instructions">
+ Click on a word to black it out; click again to reveal it.<br/> Click and drag to blackout/reveal several words or lines (occasionally a bit temperamental).
+  
+</div>
 
 Select text to work with: 
   <select id="dropdown">
@@ -152,6 +157,7 @@ Select text to work with:
 <button id="nextbutton" type="button">
     next page
 </button>
+
 
   <!-- display page -->
 

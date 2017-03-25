@@ -16,7 +16,7 @@
   var text_name = $( "#dropdown" ).val();
   console.log(text_name);
   console.log("currentpage is " + this_page);
-  // do the ajax get call to call display_page
+  // do the ajax get call to call display_page now
   $.ajax({
 
       // The URL for the request

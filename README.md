@@ -3,7 +3,7 @@ Poems in the Gaps
 
 A blackout poetry writing tool.
 
-[Live Demo](http://www.alcluith.co.uk/poemsinthegaps/index.html) 
+[Live Demo](http://www.alcluith.co.uk/poemsinthegaps/makeapoem.php) 
 
 ## Resources
 

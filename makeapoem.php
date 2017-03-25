@@ -128,7 +128,7 @@
 </nav>
 
 <div id="instructions">
- Click on a word to black it out; click again to reveal it.<br/> Click and drag to blackout/reveal several words or lines (occasionally a bit temperamental).
+ Click on a word to black it out; click again to reveal it.<br/> Click and drag to blackout/reveal several words or lines (<strong>occasionally a bit temperamental - try dragging fairly slowly</strong>).
   
 </div>
 
